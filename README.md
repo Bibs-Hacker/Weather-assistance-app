@@ -53,5 +53,5 @@ Built with ❤️ to assist everyone in style.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/weather-ai-app.git
+git clone https://github.com/Bibs-hacker/weather-ai-app.git
 cd weather-ai-app
